@@ -1,3 +1,7 @@
+# Downloaded snp stock values
+snp_stocks_vals/
+snp_stocks_price_history.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
